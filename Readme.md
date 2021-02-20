@@ -1,5 +1,5 @@
 
-## Condtional DGAN
+## PredRNN
 
 This is an implementation based on the paper <a href="https://dl.acm.org/doi/pdf/10.5555/3294771.3294855">PredRNN: recurrent neural networks for predictive learning using spatiotemporal LSTMs</a> 
 
