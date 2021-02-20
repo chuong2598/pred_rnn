@@ -9,6 +9,7 @@ The model make uses of ConvLSTM, but add one more memory cell M that is passed b
 This new architecture of LSTM cell is called Spatiotemporal LSTM (shown in figure below)
 
 <br/>
+
 ![alt text](./spatiotemporal_lstm.png)
 
 <br/>
