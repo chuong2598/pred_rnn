@@ -14,7 +14,7 @@ This new architecture of LSTM cell is called Spatiotemporal LSTM (shown in figur
 
 <br/>
 
-### Result after training 5 epochs on MovingMnist
+### Result after training 2 epochs on MovingMnist
 
 - Input sequence <br/>
 ![alt text](./input.png)
